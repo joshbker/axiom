@@ -43,4 +43,5 @@ bin/
 
 ### Documentation ###
 CLAUDE.md
+.claude/
 docs/
